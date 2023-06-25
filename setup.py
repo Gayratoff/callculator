@@ -7,6 +7,6 @@ setup(
     install_requires=[''],
     author='XUDOBERDI GAYRATOV',
     author_email='xudoberdigayratov@gmail.com',
-    description='Description of my package',
+    description='Matemetikda module arifmetik amallar uchun',
     url='https://github.com/Gayratoff/callculator.git',
 )
